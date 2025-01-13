@@ -27,17 +27,17 @@ Sentiments for the top 10 apps analyzed with stacked bar charts, emphasizing com
 Interactive Visualization: A dynamic scatter plot showing app ratings vs. installs, enriched with category and size data for deeper engagement.
 
 ## Visualization Samples
-## Static Visualizations
+### Static Visualizations
 
--App Distribution Across Categories: Highlights dominant and niche app categories.
+- App Distribution Across Categories: Highlights dominant and niche app categories.
 
--Distribution of App Ratings: Showcases user preferences and outliers.
+- Distribution of App Ratings: Showcases user preferences and outliers.
 
--Top 10 Apps by Install Count: Reveals the most popular apps.
+- Top 10 Apps by Install Count: Reveals the most popular apps.
 
--Price Distribution of Paid Apps: Provides insights into pricing strategies.
+- Price Distribution of Paid Apps: Provides insights into pricing strategies.
 
-## Interactive Visualizations
+### Interactive Visualizations
 
 Scatter Plot: Explore app ratings vs. installs dynamically with size and category as interactive features, supporting detailed analysis.
 
@@ -45,27 +45,27 @@ Scatter Plot: Explore app ratings vs. installs dynamically with size and categor
 
 The visualizations provide actionable insights for decision-making:
 
--Category Distribution: 
+- Category Distribution: 
 
 Helps identify the most saturated and underrepresented app categories, guiding app developers to target less competitive niches.
 
--Ratings Distribution: 
+- Ratings Distribution: 
 
 Reveals trends in user satisfaction, aiding quality improvement efforts for underperforming apps.
 
--Top Install Counts: 
+- Top Install Counts: 
 
 Highlights apps with the highest engagement, providing benchmarks for new app launches.
 
--Price Distribution: 
+- Price Distribution: 
 
 Offers insights into optimal pricing strategies for paid apps to remain competitive.
 
--Sentiment Analysis: 
+- Sentiment Analysis: 
 
 Identifies areas of improvement based on user feedback sentiment, enabling targeted updates to enhance user experience.
 
--Interactive Visualization: 
+- Interactive Visualization: 
 
 Assists stakeholders in exploring the relationship between app features (rating, installs, size, category) to inform development priorities and marketing strategies.
 

@@ -54,17 +54,32 @@ The analysis includes both static and interactive visualizations:
 
 - Category Distribution: Bar chart showing the number of apps per category.
 
+![image](https://github.com/user-attachments/assets/e68f6865-2d20-4001-a151-d03aca4bbfca)
+
+
 - Ratings Distribution: Histogram of app ratings.
+
+![image](https://github.com/user-attachments/assets/72599f19-09f8-4571-bfd9-8dc9887db59e)
 
 - Size Distribution: Boxplot of app sizes (MB).
 
+![image](https://github.com/user-attachments/assets/c3f35b53-9f1d-452e-981c-81e68cd2396c)
+
 - Top 10 Apps by Installs: Horizontal bar chart of install counts.
+
+![image](https://github.com/user-attachments/assets/ad42154f-c08d-44ad-8065-a877a41a556d)
 
 - Price Distribution: Boxplot of prices for paid apps.
 
+![image](https://github.com/user-attachments/assets/6e3946c1-a1da-4b6a-968d-1879ba58ad1e)
+
 - Sentiment Distribution: Pie chart of review sentiments.
 
+![image](https://github.com/user-attachments/assets/6d7132f8-abe5-4bc9-b5df-cb84398d430a)
+
 - Interactive Visualization: Scatter plot of app ratings vs. installs, segmented by size and category.
+
+![image](https://github.com/user-attachments/assets/8bc282fd-2cc7-41f0-9d2c-40ac940f0f06)
 
 ## Key Insights
 
